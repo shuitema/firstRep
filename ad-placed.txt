@@ -1,0 +1,14 @@
+Je advertentie is succesvol geplaatst.
+          
+Beste {firstname},
+Je hebt zonet succesvol je telefoon te koop aangeboden op {shop_name}. Zodra je biedingen of een bericht binnenkrijgt ontvang je van ons een mail. 
+
+Jouw verkooppagina kan je vinden op : {link}
+
+Wanneer ontvang ik mijn geld?
+Zodra je telefoon verkocht is via {shop_name} ontvang je een bericht hierover.  als de de telefoon wordt verzonden ontvang je je geld zodra {shop_name} het toestel heeft gecontroleerd. Haalt de koper de telefoon op? Dan krijg je van de koper een transactie die je kan invoeren in op {shop_name}. 
+
+
+Het geld zal vervolgens binnen 2 dagen worden overgeboekt naar je bankrekeningnummer. Die kan je alvast invullen op {shop_url}profiel, maar je kan ook wachten tot de telefoon verkocht is. 
+                    
+Groeten van het {shop_name} team!
