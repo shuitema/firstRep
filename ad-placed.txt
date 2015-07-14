@@ -11,4 +11,4 @@ Zodra je telefoon verkocht is via {shop_name} ontvang je een bericht hierover.  
 
 Het geld zal vervolgens binnen 2 dagen worden overgeboekt naar je bankrekeningnummer. Die kan je alvast invullen op {shop_url}profiel, maar je kan ook wachten tot de telefoon verkocht is. 
                     
-Groeten van het {shop_name} team!
+Groeten van het {shop_name} team!!!
